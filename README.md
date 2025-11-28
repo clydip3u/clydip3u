@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <span style="color:#f6eacc; font-size:20px;">𝑪𝒍𝒚𝒅𝒊/𝑳𝒐𝒖𝒊𝒔𝒆 ⟡ 𝑺𝒉𝒆/𝑯𝒆𝒓 ⟡ 𝑰𝒏𝒅𝒐/𝑬𝒏𝒈</span>
+  <span style="color:#f6eacc ;">𝑪𝒍𝒚𝒅𝒊/𝑳𝒐𝒖𝒊𝒔𝒆 ⟡ 𝑺𝒉𝒆/𝑯𝒆𝒓 ⟡ 𝑰𝒏𝒅𝒐/𝑬𝒏𝒈</span>
 </p>
 
 
