@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/c1/3c/7c/c13c7ccaf54330357aa1c7a6b6ddde0a.jpg" width="50">
+  <img src="https://media.tenor.com/B3uqC9kIDXMAAAAi/cute-shine.gif" width="100">
 </p>
 
-wip
