@@ -6,3 +6,6 @@
   <img src="https://media.tenor.com/B3uqC9kIDXMAAAAi/cute-shine.gif" width="100">
 </p>
 
+<p align="center">
+  𝑪𝒍𝒚𝒅𝒊/𝑳𝒐𝒖𝒊𝒔𝒆 ⟡ 𝒔𝒉𝒆/𝒉𝒆𝒓
+</p>
