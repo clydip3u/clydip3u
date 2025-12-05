@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <span style="color:#f6eacc ;">𝑪𝒍𝒚𝒅𝒊/𝑳𝒐𝒖𝒊𝒔𝒆 ⟡ 𝑺𝒉𝒆/𝑯𝒆𝒓 ⟡ 𝑰𝒏𝒅𝒐/𝑬𝒏𝒈</span>
-</p>
+  $\color{pink}{\textsf{𝑪𝒍𝒚𝒅𝒊/𝑳𝒐𝒖𝒊𝒔𝒆 ⟡ 𝑺𝒉𝒆/𝑯𝒆𝒓 ⟡ 𝑰𝒏𝒅𝒐/𝑬𝒏𝒈}}$
+  
 
 
 
