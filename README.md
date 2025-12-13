@@ -35,4 +35,10 @@
   <p align="center">
    
  
-    𝚉𝚒𝚘𝚗𝚒𝚜𝚝, 𝚄𝚗𝚛𝚎𝚜𝚙𝚎𝚌𝚝𝚏𝚞𝚕, 𝙰𝚗𝚢 𝙽𝚂𝙵𝚆/𝙶𝚘𝚛𝚎 𝚌𝚘𝚗𝚝𝚎𝚗𝚝 (𝚘𝚛 𝚟𝚎𝚛𝚢 𝚟𝚞𝚕𝚐𝚊𝚛 𝚓𝚘𝚔𝚎𝚜), 𝚃𝚊𝚔𝚒𝚗𝚐 𝚏𝚒𝚌𝚝𝚒𝚘𝚗 𝚝𝚘𝚘 𝚜𝚎𝚛𝚒𝚘𝚞𝚜𝚕𝚢, 𝙿𝚛𝚘𝚜𝚑𝚒𝚙𝚙𝚎𝚛𝚜
+    𝚉𝚒𝚘𝚗𝚒𝚜𝚝, 𝚄𝚗𝚛𝚎𝚜𝚙𝚎𝚌𝚝𝚏𝚞𝚕, 𝙰𝚗𝚢 𝙽𝚂𝙵𝚆/𝙶𝚘𝚛𝚎 𝚌𝚘𝚗𝚝𝚎𝚗𝚝 (𝚘𝚛 𝚟𝚎𝚛𝚢 𝚟𝚞𝚕𝚐𝚊𝚛 𝚓𝚘𝚔𝚎𝚜), 𝚃𝚊𝚔𝚒𝚗𝚐 𝚏𝚒𝚌𝚝𝚒𝚘𝚗 𝚝𝚘𝚘 𝚜𝚎𝚛𝚒𝚘𝚞𝚜𝚕𝚢, 𝙿𝚛𝚘𝚜𝚑𝚒𝚙𝚙𝚎𝚛𝚜, 𝚁𝚘𝚕𝚎𝚙𝚕𝚊𝚢𝚜
+<hr>
+<p align="center">
+<img src="https://media.tenor.com/wnVuzMq9fYsAAAAj/love-heart.gif" width="30"> 
+
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/54/87/03/54870351cc54fee255ba275ce2aaa123.jpg" width="500">
