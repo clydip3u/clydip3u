@@ -20,7 +20,7 @@
   
  <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31wyjdfqqgqnlyggpsdc5ixwc7fu&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wyjdfqqgqnlyggpsdc5ixwc7fu&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=true&profanity=false&bar_color=9ce6df">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wyjdfqqgqnlyggpsdc5ixwc7fu&cover_image=false&theme=default&show_offline=false&background_color=ffffff&interchange=true&profanity=false&bar_color=9ce6df">
   </a>
 </p>
  <p align="center">
