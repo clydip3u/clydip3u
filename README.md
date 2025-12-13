@@ -19,8 +19,9 @@
   $\color{pink}{\textsf{ ᝰ.ᐟㅤ𝙇𝙄𝙉𝙆𝙎 (wip) }}$ 
   
  <p align="center">
+<p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31wyjdfqqgqnlyggpsdc5ixwc7fu&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wyjdfqqgqnlyggpsdc5ixwc7fu&cover_image=false&theme=default&show_offline=false&background_color=ffffff&interchange=true&profanity=false&bar_color=9ce6df">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wyjdfqqgqnlyggpsdc5ixwc7fu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=true&profanity=false&bar_color=9ce6df&bar_color_cover=false">
   </a>
 </p>
  <p align="center">
