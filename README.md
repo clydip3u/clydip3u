@@ -14,7 +14,7 @@
    <table align="center">
   <tr>
     <td align="center">
-      <a href="https://peuuuu.straw.page">
+      <a href="https://clydis.straw.page">
         Ⲋtɾᥲᥕρᥲgꫀ
       </a>
     </td>
