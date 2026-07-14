@@ -3,7 +3,11 @@
 <p align="center">
 <img src="https://media.tenor.com/B3uqC9kIDXMAAAAi/cute-shine.gif" width="90"> 
 
-  <hr>
+  <p align="center">
+   
+ 
+    𝚠𝚑𝚊𝚝 𝚒𝚜 𝚖𝚎𝚊𝚗𝚝 𝚏𝚘𝚛 𝚢𝚘𝚞 𝚠𝚒𝚕𝚕 𝚏𝚒𝚗𝚍 𝚒𝚝'𝚜 𝚠𝚊𝚢. 
+    
  <p align="center">
   $\color{pink}{\textsf{⋆ ˚｡⋆୨୧ 𝓛𝓲𝓷𝓴𝓼}}$ 
 
@@ -28,9 +32,6 @@
      
 
 
-  <p align="center">
-   
- 
-    𝚠𝚑𝚊𝚝 𝚒𝚜 𝚖𝚎𝚊𝚗𝚝 𝚏𝚘𝚛 𝚢𝚘𝚞 𝚠𝚒𝚕𝚕 𝚏𝚒𝚗𝚍 𝚒𝚝'𝚜 𝚠𝚊𝚢. 
+
 
 
